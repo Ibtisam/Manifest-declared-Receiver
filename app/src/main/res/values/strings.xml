@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Manifest Declared Receiver</string>
+    <string name="b1">Broadcast</string>
+    <string name="t1">Message</string>
+</resources>
